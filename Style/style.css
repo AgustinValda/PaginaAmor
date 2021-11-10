@@ -41,7 +41,7 @@ h1 {
   transform: rotate(45deg);
   background-color: red;
   position: relative;
-  top: 10rem;
+  top: 2rem;
   left: 15rem;
   animation: beating 2s ease infinite;
 }
