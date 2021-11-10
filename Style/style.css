@@ -11,9 +11,12 @@ body {
 h1 {
   color: aliceblue;
 }
+#contenedorCollage {
+  padding-block: 10%;
+}
 #collage {
-  width: 60%;
-  height: 60%;
+  width: 75%;
+  height: 75%;
 }
 
 #frase {
