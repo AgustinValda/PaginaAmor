@@ -20,3 +20,10 @@ h1 {
   text-align: right;
   align-self: baseline;
 }
+#poema {
+  color: aliceblue;
+  height: 30%;
+  width: 60%;
+  text-align: right;
+  align-self: baseline;
+}
