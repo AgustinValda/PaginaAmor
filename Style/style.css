@@ -12,8 +12,8 @@ h1 {
   color: aliceblue;
 }
 #collage {
-  width: 35%;
-  height: 35%;
+  width: 45%;
+  height: 45%;
 }
 
 #frase {
@@ -31,4 +31,36 @@ h1 {
   width: 70%;
   text-align: right;
   align-self: baseline;
+}
+
+/*corazon*/
+
+.love {
+  width: 100px;
+  height: 100px;
+  transform: rotate(45deg);
+  background-color: red;
+  position: relative;
+  top: 15rem;
+  left: 15rem;
+  animation: beating 2s ease infinite;
+}
+
+.love:after,
+.love:before {
+  content: "";
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+}
+
+.love:before {
+  top: 0px;
+  left: -45px;
+}
+.love:after {
+  left: 0;
+  top: -45px;
 }
