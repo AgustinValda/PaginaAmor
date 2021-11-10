@@ -1,0 +1,22 @@
+body {
+  background-image: url(../image/heart-g76afb5ccd_1920.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+  text-align: center;
+  font-family: cursive;
+}
+
+h1 {
+  color: aliceblue;
+}
+#frase {
+  color: aliceblue;
+  height: 10%;
+  width: 40%;
+  margin-top: 10%;
+  margin-left: 40%;
+  text-align: right;
+  align-self: baseline;
+}
