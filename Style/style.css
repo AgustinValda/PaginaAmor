@@ -12,8 +12,8 @@ h1 {
   color: aliceblue;
 }
 #collage {
-  width: 45%;
-  height: 45%;
+  width: 60%;
+  height: 60%;
 }
 
 #frase {
@@ -41,7 +41,7 @@ h1 {
   transform: rotate(45deg);
   background-color: red;
   position: relative;
-  top: 2rem;
+  top: 1rem;
   left: 15rem;
   animation: beating 2s ease infinite;
 }
